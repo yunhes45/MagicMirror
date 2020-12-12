@@ -95,14 +95,6 @@ var config = {
 				]
 			}
 		},
-		{
-    module: 'MMM-SmartTouch',
-    position: 'bottom_center',    // This can be any of the regions.(bottom-center Recommended)
-    config: {
-        // The config property is optional.
-    	}
-},
-
 
 {
 	module: "MMM-MusicOnDemand",
@@ -123,7 +115,16 @@ var config = {
         config: {
             apiKey: '6f9f6d38085d4d358032e3f6eae43342'
         }
-    },
+	},
+	
+	{
+		module: 'MMM-HideAll',
+		position: 'bottom_right',
+		config: {
+			symbolhide: "eye",
+			symbolshow: "eye"
+		}
+	},
 
 {
 		module: "MMM-EmbedYoutube", // Path to youtube module from modules folder Exmaple: MagicMirror/modules/custom/MMM-EmbedYoutube/ so it's custom/MMM-EmbedYoutube
