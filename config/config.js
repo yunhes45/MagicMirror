@@ -136,7 +136,7 @@ var config = {
 			loop: true
 		}
 	},
-/* //
+
 	{
 		module: 'SMARTFRIDGE',
 		position: "top_center",
@@ -144,7 +144,7 @@ var config = {
 			// See below for configurable options
 		}
 	}
-*/
+
     ]
 };
 
