@@ -125,6 +125,7 @@ var config = {
 			symbolshow: "eye"
 		}
 	},
+//
 
 {
 		module: "MMM-EmbedYoutube", // Path to youtube module from modules folder Exmaple: MagicMirror/modules/custom/MMM-EmbedYoutube/ so it's custom/MMM-EmbedYoutube
