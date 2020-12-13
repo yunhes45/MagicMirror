@@ -137,13 +137,6 @@ var config = {
 		}
 	},
 
-	{
-		module: 'SMARTFRIDGE',
-		position: "top_center",
-		config: {
-			// See below for configurable options
-		}
-	}
 
     ]
 };
