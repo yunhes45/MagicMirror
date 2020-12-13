@@ -135,7 +135,7 @@ var config = {
 			playlist: "PLfi50MQ-9KzqhLAMzKPde3wpI98F8r2JD",
 			loop: true
 		}
-	},
+	}
 
 
     ]
