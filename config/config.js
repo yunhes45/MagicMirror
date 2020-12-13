@@ -136,7 +136,7 @@ var config = {
 			loop: true
 		}
 	},
-/*
+/* //
 	{
 		module: 'SMARTFRIDGE',
 		position: "top_center",
