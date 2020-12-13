@@ -126,7 +126,7 @@ var config = {
 		}
 	},
 
-{
+/*{
 		module: "MMM-EmbedYoutube", // Path to youtube module from modules folder Exmaple: MagicMirror/modules/custom/MMM-EmbedYoutube/ so it's custom/MMM-EmbedYoutube
 		position: "top_center",	// This can be any of the regions.
 		config: {
@@ -135,8 +135,15 @@ var config = {
 			playlist: "PLfi50MQ-9KzqhLAMzKPde3wpI98F8r2JD",
 			loop: true
 		}
+	},
+*/
+	{
+		module: 'SMARTFRIDGE',
+		position: "top_center",
+		config: {
+			// See below for configurable options
+		}
 	}
-
     ]
 };
 
