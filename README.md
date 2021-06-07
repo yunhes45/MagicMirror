@@ -10,7 +10,6 @@
 - ![원동현](https://img.shields.io/badge/원동현-blue)
 - ![최혁수](https://img.shields.io/badge/최혁수-blue)
 - ![채현규](https://img.shields.io/badge/채현규-blue)
-- ![천호진](https://img.shields.io/badge/천호진-blue)
 
 ## ⚡ npm scripts
 
